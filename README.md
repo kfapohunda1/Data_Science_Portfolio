@@ -7,7 +7,7 @@
    * Translated the English version to a Spanish version using a Watson language translator API
    * Used python functions to create parameters for managing the wav and tex files
 
-### [ Project 2: Using Python for Extract, Manipulate and Visualize Stock Data (Gamestop vs Tesla)](https://github.com/kfapohunda1/Python_Course/blob/246bbc92cb88717dd5a618e932797559f5bec7c7/Jupyter%20Notebook%20(9).ipynb)
+### [ Project 2: Using Python to Extract, Manipulate and Visualize Stock Data (Gamestop vs Tesla)](https://github.com/kfapohunda1/Python_Course/blob/2135b7428390e3b950f75e304a9dc354097b2e5a/Jupyter%20Notebook%20(9).ipynb)
 
    * Used the ticker functions in python library to directly extract stock data available in ticker reports
    * Scraped several webpages for stocks and share prices not available via stock API using beautiful soup 
