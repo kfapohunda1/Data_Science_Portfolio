@@ -1,7 +1,7 @@
 # KF_Porfolio
 #### Data Science Portfolio
 
-### [ Project 1: Covert Speech to Text Using Watson Speech Translator and Python](https://github.com/kfapohunda1/Python_Course/blob/3744c5c76513cf7a02b140a9b625be6ab769871b/PY0101EN-5.2_API_2%20(4).ipynb)
+### [ Project 1: Covert Speech to Text Using Watson Speech Translator and Python](https://github.com/kfapohunda1/Python_Course/blob/ef8204b3abc611c871961f1426f1fced175c777b/Speech%20to%20Text%20Translator.ipynb)
 
    * Converted an audio file of an English speaker to text using Watson speech to text API
    * Translated the English version to a Spanish version using a Watson language translator API
