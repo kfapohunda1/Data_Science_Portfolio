@@ -15,7 +15,7 @@
    * Displayed GameStop and Tesla's stock in a graph using the plotly library
 
 
-### [ Project 3: Predicting Housing Sale Price in King County, USA ](https://github.com/kfapohunda1/Python_Course/blob/6de88edb90bf3b05613ef8a434a5587e38be6263/Predicting%20House%20Sales%20in%20King%20County,%20USA%20.ipynb)
+### [ Project 3: Predicting Housing Sales Price in King County, USA ](https://github.com/kfapohunda1/Python_Course/blob/6de88edb90bf3b05613ef8a434a5587e38be6263/Predicting%20House%20Sales%20in%20King%20County,%20USA%20.ipynb)
 
    * Scraped for dataset and performed data wrangling for easy analysis
    * Performed exploratory data analysis with descriptive and visual statistics for better understanding of data
