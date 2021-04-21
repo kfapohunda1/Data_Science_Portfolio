@@ -1,5 +1,5 @@
-# Kolade Fapohunda
-#### Data Science Portfolio
+## Kolade Fapohunda
+### Data Science Portfolio
 
 ### [ Project 1: Covert Speech to Text Using Watson Speech Translator](https://github.com/kfapohunda1/Python_Course/blob/02e02349725b95c4e28d28e2bf998b93457b3c84/Speech%20to%20Text%20Translator.ipynb)
 
