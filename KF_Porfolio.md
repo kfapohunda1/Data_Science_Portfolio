@@ -1,4 +1,4 @@
-# KF_Porfolio
+# Kolade Fapohunda
 #### Data Science Portfolio
 
 ### [ Project 1: Covert Speech to Text Using Watson Speech Translator](https://github.com/kfapohunda1/Python_Course/blob/02e02349725b95c4e28d28e2bf998b93457b3c84/Speech%20to%20Text%20Translator.ipynb)
@@ -17,7 +17,7 @@
 
 ### [ Project 3: Predicting Housing Sale Price in King County, USA ](https://github.com/kfapohunda1/Python_Course/blob/cf099e2d5ff6e2c8267d2d047e3d425f2498d6c6/Predicting%20House%20Sales%20in%20King%20County,%20USA%20(Machine%20Learning).ipynb)
 
-   *Scraped for dataset and performed data wrangling for easy analysis
-   *Performed exploratory data analysis with descriptive and visual statistics for better understanding of data
-   *Developed model pipelines to analyze, transform and predict housing prices using data on house features and attributes
-   *Evaluated and refined models using ridge regression and R^2 score.
+   * Scraped for dataset and performed data wrangling for easy analysis
+   * Performed exploratory data analysis with descriptive and visual statistics for better understanding of data
+   * Developed model pipelines to analyze, transform and predict housing prices using data on house features and attributes
+   * Evaluated and refined models using ridge regression and R^2 values.
