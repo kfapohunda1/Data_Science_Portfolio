@@ -17,7 +17,7 @@
 
 ### [ Project 3: Predicting Housing Sales Price in King County, USA ](https://github.com/kfapohunda1/Python_Course/blob/6de88edb90bf3b05613ef8a434a5587e38be6263/Predicting%20House%20Sales%20in%20King%20County,%20USA%20.ipynb)
 
-   * Scraped for King County's housing data and performed data wrangling for easy analysis
+   * Scraped for King County's housing data and performed data wrangling for analysis
    * Performed exploratory data analysis with visual and descriptive statistics to better understand the dataset
    * Developed model pipelines to analyze, transform and predict housing prices using house features and attributes
    * Evaluated and refined prediction models using ridge regression and R^2 values.
