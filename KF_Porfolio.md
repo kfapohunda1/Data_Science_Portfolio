@@ -20,4 +20,4 @@
    * Scraped for King County's housing data and performed data wrangling for analysis
    * Performed exploratory data analysis with visual and descriptive statistics to better understand dataset
    * Developed model pipelines to analyze, transform and predict housing prices using house features and attributes
-   * Evaluated and refined prediction hosuing models using ridge regression and R^2 values.
+   * Evaluated and refined prediction housing models using ridge regression and R^2 values.
