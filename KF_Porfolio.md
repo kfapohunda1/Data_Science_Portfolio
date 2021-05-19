@@ -29,3 +29,12 @@
    * Created interactive dashboard of US airline flight performance and delays using Dash framework
    * Incorporated interactive graphs and charts into dashboard using plotly
    * Developed callback function to compute data, create graph and return layout depending on report type and year inputed
+
+
+### [Project 5: Loan Payment Classifier](https://github.com/kfapohunda1/Python-and-SQL-Course/blob/4813b13c3b81d2c4a0d0797405ddebad969c38d9/Loan%20Payment%20Classifier.ipynb) 
+   
+   * Imported and processed loan data for further analysis 
+   * Performed exploratory data analysis with visual and descriptive statistics to better understand dataset
+   * Classified loan data using machine learning algorithms such as  K Nearest Neighbor(KNN), Decision Tree, Support Vector Machine and Logistic regression
+   * Evaluated the accuracy of machine learning algorithms using f1_score and jaccard similarity coefficient score
+
