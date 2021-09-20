@@ -37,4 +37,10 @@
    * Performed exploratory data analysis with visual and descriptive statistics to better understand dataset
    * Classified loan data using machine learning algorithms such as  K Nearest Neighbor(KNN), Decision Tree, Support Vector Machine and Logistic regression
    * Evaluated the accuracy of machine learning algorithms using f1_score and jaccard similarity coefficient score
+   
+   
+### [Project 6: Cluster Neighborhoods] (https://colab.research.google.com/drive/1srenM1AyMPEKrIrCSgeaIAL7hNz2zQr6?usp=sharing#scrollTo=z9exDX_dYvB1)
 
+  * Scraped webpages and parse HTML code using the Python package Beautifulsoup.
+  * Used unsupervised machine learning (K-Means clustering) and the Foursquare API to segment and cluster neighborhoods in the city of Toronto
+  * Visualized clustred maps using folium and Matplotlib
