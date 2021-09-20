@@ -23,7 +23,7 @@
    * Evaluated and refined prediction housing models using ridge regression and R^2 values.
    
      
-### [Project 4: US Domestic Flights Performance Dashboard](https://github.com/kfapohunda1/Python_Course/blob/6a4d8993c4e633a29c1411a6010efc97c9be703b/US%20Domestic%20Airline%20Flights%20Performance%20Dashboard%20from%202005-2020.ipynb) 
+### [Project 4: US Domestic Flights Performance Dashboard](https://colab.research.google.com/drive/1mdVpq-Ff6IOy3Lpi1nXiMv58v_L81GF_#scrollTo=tWMl55TSAQXt) 
    
    * Imported and processed airline flights data for further analysis 
    * Created interactive dashboard of US airline flight performance and delays using Dash framework
